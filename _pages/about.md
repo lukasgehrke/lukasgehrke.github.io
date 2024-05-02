@@ -6,7 +6,7 @@ subtitle: Researcher at <a href='https://www.tu-berlin.de'>TU Berlin</a> in the 
 
 profile:
   align: right
-  image: Lukas.JPG
+  image: lukas.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <a href='https://scholar.google.de/citations?user=I7s0gkMAAAAJ&hl=en' class="ai ai-google-scholar ai-2x"></a>
