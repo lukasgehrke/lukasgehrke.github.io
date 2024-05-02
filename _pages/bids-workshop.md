@@ -1,13 +1,11 @@
 ---
 layout: page
-title: BIDS workshop
+title: BIDS Workshop at Neuroergonomics 2024
 permalink: /bids-workshop-neuroergonomics-2024/
 nav: true
 nav-order: 2
 author: 'Lukas Gehrke'
 ---
-
-# BIDS Workshop at Neuroergonomics 2024
 
 Lukas Gehrke, Technical University Berlin, Germany, <https://orcid.org/0000-0003-3661-1973>  
 Sein Jeung, Technical University Berlin, Germany, <https://orcid.org/0000-0002-0247-087X>
