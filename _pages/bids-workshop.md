@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BIDS Workshop at Neuroergonomics 2024
+title: Workshop - BIDS at Neuroergonomics 2024
 permalink: /bids-workshop-neuroergonomics-2024/
 nav: true
 nav-order: 2
