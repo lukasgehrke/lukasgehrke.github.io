@@ -22,6 +22,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+latest_posts: false
 ---
 
 I work at the intersection of human-computer interaction (HCI) and cognitive neuroscience. In my PhD research, I published papers on multimodal interface technology, investigating neural- and movement signatures for novel natural interaction experiences with extended realities (XR).
