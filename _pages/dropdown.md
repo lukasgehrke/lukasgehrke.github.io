@@ -1,16 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: workshops
+nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Measuring Presence in XR
+    permalink: /presence-workshop-berlin-2024/
   - title: divider
-  - title: projects
-    permalink: /projects/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Workflows for sharing multimodal recordings in BIDS format
+    permalink: /bids-workshop-neuroergonomics-2024/
 ---

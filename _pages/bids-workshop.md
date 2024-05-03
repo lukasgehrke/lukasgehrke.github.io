@@ -2,7 +2,7 @@
 layout: page
 title: Workshop - BIDS at Neuroergonomics 2024
 permalink: /bids-workshop-neuroergonomics-2024/
-nav: true
+nav: false
 nav-order: 2
 author: 'Lukas Gehrke'
 ---
