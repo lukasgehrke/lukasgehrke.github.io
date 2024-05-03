@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 nav: false
 permalink: /
 subtitle: Researcher at <a href='https://www.tu-berlin.de'>TU Berlin</a> in the department of <a href='https://www.bpn.tu-berlin.de'>Biopsychology and Neuroergonomics</a>.
