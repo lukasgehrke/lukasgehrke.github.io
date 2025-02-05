@@ -3,14 +3,14 @@
  ******************************************************************************/
 
 :root {
-  --global-bg-color: #feefd3; // #{$white-color};
+  --global-bg-color: #{$white-color}; //#feefd3;
   --global-code-bg-color: #{$code-bg-color-light};
-  --global-text-color: #2f2f2f ;// #{$black-color};
+  --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #9721DB; //#{$purple-color};
-  --global-hover-color: #9721DB; // #{$purple-color};
+  --global-theme-color: #{$purple-color};
+  --global-hover-color: #{$purple-color};
   --global-hover-text-color: #{$white-color};
-  --global-footer-bg-color: #a4e6c2; //#{$grey-color-dark};
+  --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};
   --global-distill-app-color: #{$grey-color};
