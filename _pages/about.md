@@ -15,11 +15,11 @@ profile:
     <a href='mailto:info@lukasgehrke.com' class="fa-solid fa-envelope fa-2x"></a>
 
     <br><br>    
-    <h3>Lukas <strong>Gehrke</strong></h3>
-    PhD Candidate
+    <h2 style="color: inherit">Lukas <strong>Gehrke</strong></h2>
+    <p>PhD Candidate</p>
     <br><br>
-    <h4><a href='https://www.tu.berlin' >TU Berlin</a></h4>
-    <h5><a href='https://www.tu.berlin/bpn' >Department of Biopsychology and Neuroergonomics</a></h5>
+    <p><a href='https://www.tu.berlin' >TU Berlin</a></p>
+    <p><a href='https://www.tu.berlin/bpn' >Department of Biopsychology and Neuroergonomics</a></p>
     
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -29,7 +29,5 @@ latest_posts: false
 
 
 <br><br>
-
-Researcher at <a href='https://www.tu-berlin.de'>TU Berlin</a> in the department of <a href='https://www.bpn.tu-berlin.de'>Biopsychology and Neuroergonomics</a>.
 
 I work at the intersection of human-computer interaction (HCI) and cognitive neuroscience. In my PhD research, I published papers on multimodal interface technology, investigating neural- and movement signatures for novel natural interaction experiences with extended realities (XR).
