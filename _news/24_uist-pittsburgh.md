@@ -19,7 +19,7 @@ With [Martin Feick](https://martinfeick.com) at UIST 2024 in Pittsburgh. Martin 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/10-24_uist-pittsburgh/demo.jpeg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <!-- <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/10-24_uist-pittsburgh/lukas-with-martin.jpeg" class="img-fluid rounded z-depth-1" zoomable=false %}
-    </div>
+    </div> -->
 </div>
