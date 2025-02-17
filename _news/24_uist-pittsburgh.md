@@ -17,3 +17,6 @@ With [Martin Feick](https://martinfeick.com) at UIST 2024 in Pittsburgh. Martin 
         {% include figure.liquid path="assets/img/10-24_uist-pittsburgh/demo.jpeg" class="img-fluid rounded z-depth-1" zoomable=false %}
     </div>
 </div>
+<div class="caption">
+    Fun VR demo using TMS to simulate haptic experience directly in the brain :).
+</div>
